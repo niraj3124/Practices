@@ -1,0 +1,33 @@
+2018-09-26 16:40:07,286 INFO [root] - program for insertion started
+2018-09-26 16:40:07,905 INFO [root] - name is set :: null
+2018-09-26 16:40:07,905 WARN [root] - data may not be stored due to DB issue
+2018-09-26 16:40:07,905 ERROR [root] - error : Missing IN or OUT parameter at index:: 5
+2018-09-26 16:42:05,078 INFO [root] - program for insertion started
+2018-09-26 16:42:05,748 INFO [root] - name is set :: null
+2018-09-26 16:42:05,748 ERROR [root] - error : Invalid column index
+2018-09-26 16:53:32,380 INFO [root] - program for insertion started
+2018-09-26 16:53:33,040 INFO [root] - name is set :: null
+2018-09-26 16:53:33,040 WARN [root] - data may not be stored due to DB issue
+2018-09-26 16:53:33,060 INFO [root] - data is getting stored
+2018-09-26 16:53:33,110 INFO [root] - Transaction Successfull with transaction id :: 1001
+2018-09-26 17:37:16,448 INFO [root] - program for insertion started
+2018-09-26 17:37:17,108 ERROR [root] - error : ORA-00001: unique constraint (TRG1124.SYS_C00563164) violated
+
+2018-09-26 17:37:52,956 INFO [root] - program for insertion started
+2018-09-26 17:37:53,626 ERROR [root] - error : ORA-00001: unique constraint (TRG1124.SYS_C00563164) violated
+
+2018-09-26 17:39:36,122 INFO [root] - program for insertion started
+2018-09-26 17:39:36,762 INFO [root] - data is getting stored
+2018-09-26 17:39:36,812 INFO [root] - Transaction Successfull with transaction id :: 1004
+2018-09-26 17:42:12,950 INFO [root] - program for insertion started
+2018-09-26 17:42:13,600 INFO [root] - data is getting stored
+2018-09-26 17:42:13,650 INFO [root] - Transaction Successfull with transaction id :: 1005
+2018-09-26 17:42:33,158 INFO [root] - program for insertion started
+2018-09-26 17:42:33,948 INFO [root] - data is getting stored
+2018-09-26 17:42:33,998 INFO [root] - Transaction Successfull with transaction id :: 1006
+2018-09-26 17:45:58,867 INFO [root] - program for insertion started
+2018-09-26 17:45:59,497 INFO [root] - data is getting stored
+2018-09-26 17:45:59,547 INFO [root] - Transaction Successfull with transaction id :: 1007
+2018-09-26 17:49:21,798 INFO [root] - program for insertion started
+2018-09-26 17:49:22,398 INFO [root] - data is getting stored
+2018-09-26 17:49:22,448 INFO [root] - Transaction Successfull with transaction id :: 1008

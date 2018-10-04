@@ -1,0 +1,41 @@
+2018-09-28 09:00:35,096 INFO [root] - program for insertion started
+2018-09-28 09:00:39,620 INFO [root] - name is set :: Aasn ds
+2018-09-28 09:00:39,620 WARN [root] - data may not be stored due to DB issue
+2018-09-28 09:00:39,698 ERROR [root] - error : ORA-00984: column not allowed here
+
+2018-09-28 09:02:19,578 INFO [root] - program for insertion started
+2018-09-28 09:02:20,280 INFO [root] - name is set :: Niraj Sharma
+2018-09-28 09:02:20,280 WARN [root] - data may not be stored due to DB issue
+2018-09-28 09:02:20,343 INFO [root] - data is getting stored
+2018-09-28 09:02:20,390 INFO [root] - data is stored with Patient id :: 1
+2018-09-28 09:08:25,480 INFO [root] - program for insertion started
+2018-09-28 09:08:26,120 INFO [root] - name is set :: Saurabh Dandriyal
+2018-09-28 09:08:26,120 WARN [root] - data may not be stored due to DB issue
+2018-09-28 09:08:26,136 INFO [root] - data is getting stored
+2018-09-28 09:08:26,198 INFO [root] - data is stored with Patient id :: 2
+2018-09-28 09:09:46,767 INFO [root] - program for retrive started
+2018-09-28 09:09:47,688 WARN [root] - data may not be retrieved due to DB issue
+2018-09-28 09:09:47,688 INFO [root] - Data Retrived Successsfully
+2018-09-28 09:16:27,818 INFO [root] - program for insertion started
+2018-09-28 09:16:28,598 INFO [root] - name is set :: Rohan Soudey
+2018-09-28 09:16:28,598 WARN [root] - data may not be stored due to DB issue
+2018-09-28 09:16:28,613 INFO [root] - data is getting stored
+2018-09-28 09:16:28,660 INFO [root] - data is stored with Patient id :: 3
+2018-09-28 09:27:10,616 INFO [root] - program for insertion started
+2018-09-28 09:27:11,443 INFO [root] - name is set :: Monu Gaud
+2018-09-28 09:27:11,443 WARN [root] - data may not be stored due to DB issue
+2018-09-28 09:27:11,459 INFO [root] - data is getting stored
+2018-09-28 09:27:11,505 INFO [root] - data is stored with Patient id :: 4
+2018-09-28 09:29:44,699 INFO [root] - program for insertion started
+2018-09-28 09:29:45,432 INFO [root] - name is set :: Shaily Rahinj
+2018-09-28 09:29:45,432 WARN [root] - data may not be stored due to DB issue
+2018-09-28 09:29:45,448 INFO [root] - data is getting stored
+2018-09-28 09:29:45,494 INFO [root] - data is stored with Patient id :: 5
+2018-09-28 13:35:18,267 INFO [root] - program for insertion started
+2018-09-28 13:35:19,110 INFO [root] - name is set :: Sagar Sharma
+2018-09-28 13:35:19,110 WARN [root] - data may not be stored due to DB issue
+2018-09-28 13:35:19,172 INFO [root] - data is getting stored
+2018-09-28 13:35:19,250 INFO [root] - data is stored with Patient id :: 6
+2018-09-28 13:35:30,157 INFO [root] - program for retrive started
+2018-09-28 13:35:30,297 WARN [root] - data may not be retrieved due to DB issue
+2018-09-28 13:35:30,297 INFO [root] - Data Retrived Successsfully

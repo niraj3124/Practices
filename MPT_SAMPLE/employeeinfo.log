@@ -1,0 +1,106 @@
+2018-09-24 15:05:25,844 INFO [root] - program for insertion started
+2018-09-24 15:05:27,018 INFO [root] - name is set :: Mr. divya
+2018-09-24 15:05:27,018 WARN [root] - data may not be stored due to DB issue
+2018-09-24 15:05:27,030 INFO [root] - data is getting stored
+2018-09-24 15:05:27,083 INFO [root] - data is stored with emp id :: 10005
+2018-09-24 15:06:22,752 INFO [root] - program for insertion started
+2018-09-24 15:06:23,703 INFO [root] - name is set :: Mr. ddd
+2018-09-24 15:06:23,703 WARN [root] - data may not be stored due to DB issue
+2018-09-24 15:06:23,719 INFO [root] - data is getting stored
+2018-09-24 15:06:23,719 ERROR [root] - error : ORA-08002: sequence EMP_SEQ3.CURRVAL is not yet defined in this session
+
+2018-09-24 18:07:34,707 INFO [root] - program for insertion started
+2018-09-24 18:07:35,363 INFO [root] - name is set :: Mr. null
+2018-09-24 18:07:35,363 WARN [root] - data may not be stored due to DB issue
+2018-09-24 18:07:35,378 ERROR [root] - error : ORA-00942: table or view does not exist
+
+2018-09-25 08:22:15,229 INFO [root] - program for insertion started
+2018-09-25 08:22:15,853 INFO [root] - name is set :: Mr. Niraj
+2018-09-25 08:22:15,853 WARN [root] - data may not be stored due to DB issue
+2018-09-25 08:22:15,884 ERROR [root] - error : ORA-02289: sequence does not exist
+
+2018-09-25 08:23:51,874 INFO [root] - program for insertion started
+2018-09-25 08:23:52,591 INFO [root] - name is set :: Mr. Niraj
+2018-09-25 08:23:52,591 WARN [root] - data may not be stored due to DB issue
+2018-09-25 08:23:52,638 INFO [root] - data is getting stored
+2018-09-25 08:23:52,732 INFO [root] - data is stored with emp id :: 1001
+2018-09-25 08:24:13,401 INFO [root] - program for insertion started
+2018-09-25 08:24:14,024 INFO [root] - name is set :: Mr. null
+2018-09-25 08:24:14,024 WARN [root] - data may not be stored due to DB issue
+2018-09-25 08:24:14,040 INFO [root] - data is getting stored
+2018-09-25 08:24:14,087 INFO [root] - data is stored with emp id :: 1002
+2018-09-25 08:41:52,963 INFO [root] - program for insertion started
+2018-09-25 08:41:53,571 INFO [root] - name is set :: Mr. ABC
+2018-09-25 08:41:53,571 WARN [root] - data may not be stored due to DB issue
+2018-09-25 08:41:53,587 INFO [root] - data is getting stored
+2018-09-25 08:41:53,634 INFO [root] - data is stored with emp id :: 1003
+2018-09-25 10:23:44,300 INFO [root] - program for insertion started
+2018-09-25 10:23:44,971 INFO [root] - name is set :: Mr. Niraj
+2018-09-25 10:23:44,971 WARN [root] - data may not be stored due to DB issue
+2018-09-25 10:23:44,987 ERROR [root] - error : ORA-01722: invalid number
+
+2018-09-25 10:26:29,654 INFO [root] - program for insertion started
+2018-09-25 10:26:30,247 INFO [root] - name is set :: Mr. abc
+2018-09-25 10:26:30,247 WARN [root] - data may not be stored due to DB issue
+2018-09-25 10:26:30,262 ERROR [root] - error : ORA-01722: invalid number
+
+2018-09-25 10:28:23,634 INFO [root] - program for insertion started
+2018-09-25 10:28:24,226 INFO [root] - name is set :: Mr. Niraj
+2018-09-25 10:28:24,226 WARN [root] - data may not be stored due to DB issue
+2018-09-25 10:28:24,242 ERROR [root] - error : ORA-01722: invalid number
+
+2018-09-25 10:29:59,436 INFO [root] - program for insertion started
+2018-09-25 10:30:00,029 INFO [root] - name is set :: Mr. Niraj
+2018-09-25 10:30:00,029 WARN [root] - data may not be stored due to DB issue
+2018-09-25 10:30:00,045 ERROR [root] - error : ORA-01722: invalid number
+
+2018-09-25 10:31:36,100 INFO [root] - program for insertion started
+2018-09-25 10:31:36,802 INFO [root] - name is set :: Mr. Niraj
+2018-09-25 10:31:36,802 WARN [root] - data may not be stored due to DB issue
+2018-09-25 10:31:36,833 INFO [root] - data is getting stored
+2018-09-25 10:31:36,880 INFO [root] - data is stored with emp id :: 1008
+2018-09-25 10:39:03,255 INFO [root] - program for insertion started
+2018-09-25 10:39:03,957 INFO [root] - name is set :: Mr. Niraj
+2018-09-25 10:39:03,957 WARN [root] - data may not be stored due to DB issue
+2018-09-25 10:39:03,972 INFO [root] - data is getting stored
+2018-09-25 10:39:04,035 INFO [root] - data is stored with emp id :: 1009
+2018-09-25 12:55:21,865 INFO [root] - program for insertion started
+2018-09-25 12:55:22,583 INFO [root] - name is set :: Omkar
+2018-09-25 12:55:22,583 WARN [root] - data may not be stored due to DB issue
+2018-09-25 12:55:22,599 INFO [root] - data is getting stored
+2018-09-25 12:55:22,645 INFO [root] - data is stored with emp id :: 1010
+2018-09-25 12:56:08,256 INFO [root] - program for insertion started
+2018-09-25 12:56:08,864 INFO [root] - name is set :: Ajay
+2018-09-25 12:56:08,864 WARN [root] - data may not be stored due to DB issue
+2018-09-25 12:56:08,880 INFO [root] - data is getting stored
+2018-09-25 12:56:08,926 INFO [root] - data is stored with emp id :: 1011
+2018-09-25 12:57:48,233 INFO [root] - program for insertion started
+2018-09-25 12:57:48,998 INFO [root] - name is set :: Ajay
+2018-09-25 12:57:48,998 WARN [root] - data may not be stored due to DB issue
+2018-09-25 12:57:49,029 INFO [root] - data is getting stored
+2018-09-25 12:57:49,076 INFO [root] - data is stored with emp id :: 1012
+2018-09-25 16:05:51,199 INFO [root] - program for insertion started
+2018-09-25 16:05:51,807 INFO [root] - name is set ::  Mr. abdd
+2018-09-25 16:05:51,807 WARN [root] - data may not be stored due to DB issue
+2018-09-25 16:05:51,823 INFO [root] - data is getting stored
+2018-09-25 16:05:51,869 INFO [root] - data is stored with emp id :: 1013
+2018-09-25 16:54:22,910 INFO [root] - program for insertion started
+2018-09-25 16:54:23,487 INFO [root] - name is set ::  Mr. hfdhsgf
+2018-09-25 16:54:23,487 WARN [root] - data may not be stored due to DB issue
+2018-09-25 16:54:23,502 INFO [root] - data is getting stored
+2018-09-25 16:54:23,549 INFO [root] - data is stored with emp id :: 1014
+2018-09-25 17:13:02,185 INFO [root] - program for insertion started
+2018-09-25 17:13:02,841 INFO [root] - name is set ::  Mr. eeeee
+2018-09-25 17:13:02,841 WARN [root] - data may not be stored due to DB issue
+2018-09-25 17:13:02,856 INFO [root] - data is getting stored
+2018-09-25 17:13:02,903 INFO [root] - data is stored with emp id :: 1015
+2018-09-26 11:56:45,016 INFO [root] - program for insertion started
+2018-09-26 11:56:45,926 INFO [root] - name is set ::  Mr. Niraj
+2018-09-26 11:56:45,926 WARN [root] - data may not be stored due to DB issue
+2018-09-26 11:56:45,986 INFO [root] - data is getting stored
+2018-09-26 11:56:46,076 INFO [root] - data is stored with emp id :: 1016
+2018-09-26 12:01:26,861 INFO [root] - program for insertion started
+2018-09-26 12:01:27,451 INFO [root] - name is set ::  Mr. Dhiraj
+2018-09-26 12:01:27,451 WARN [root] - data may not be stored due to DB issue
+2018-09-26 12:01:27,461 INFO [root] - data is getting stored
+2018-09-26 12:01:27,521 INFO [root] - data is stored with emp id :: 1017
